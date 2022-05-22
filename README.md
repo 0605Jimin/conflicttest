@@ -1,3 +1,3 @@
 # conflicttest
-* Hello main
-* Hello main2
+* Hello Gary
+* Hello Gary 2
